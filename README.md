@@ -1,2 +1,2 @@
 # things
-Esta es una prueba para aprender a usar git 
+Este es un repositorio de prueba para aprender a usar git 
